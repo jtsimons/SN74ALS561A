@@ -1,0 +1,5 @@
+Program: Synchronous 4-Bit Counter with 3-State Outputs
+Author: Jacob Simons
+Date Published: November 2, 2022
+
+All rights reserved.
